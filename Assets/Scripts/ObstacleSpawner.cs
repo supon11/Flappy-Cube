@@ -19,8 +19,8 @@ public class ObstacleSpawner : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		for(int i = 0 ; i < 3 ; i++){
-			SpawnObstacle(); //Begin with 3 obstacle
+		for(int i = 0 ; i < 2 ; i++){
+			SpawnObstacle(); //Begin with 2 obstacle
 		}
 	}
 	
